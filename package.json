@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nplaner/reactbase#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4",
     "prop-types": "^15.7.2",
     "prop-types-exact": "^1.2.0",
